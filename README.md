@@ -1,5 +1,4 @@
-# migrate-sharded-mongodb-to-percona-mongodb-eks
-Migrating Self-Managed Sharded MongoDB Cluster on EC2 to Percona Server for MongoDB on EKS
+# Migrating Self-Managed Sharded MongoDB Cluster on EC2 to Percona Server for MongoDB on EKS
 
 # Overview
 Community-focused, end-to-end guide and IaC blueprint to migrate from a self-managed, sharded MongoDB cluster on EC2 to an operator-driven, Kubernetes-native deployment with Percona Server for MongoDB on Amazon EKS. Includes architecture, deployment workflow, sanitised Terraform/Helm examples, operational runbooks, lessons learned, and references.
